@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: =>
+    is_correct: false
+  - text: =
+    is_correct: false
+  - text: ","
+    is_correct: false
+  - text: ':'
+    is_correct: true
+  - text: '?'
+    is_correct: false
+  - text: :=
+    is_correct: false
+  - text: ->
+    is_correct: false
+  - text: ===
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:25:29 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: The syntax
+local_check: true

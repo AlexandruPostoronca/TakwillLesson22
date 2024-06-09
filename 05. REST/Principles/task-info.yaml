@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Stateless
+    is_correct: false
+  - text: Client-server interaction model
+    is_correct: false
+  - text: Full Idempotence
+    is_correct: true
+  - text: Cacheable
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:19:35 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: Principles
+local_check: true

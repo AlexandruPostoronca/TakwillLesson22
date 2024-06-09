@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Yes"
+    is_correct: true
+  - text: HTTPS technology is outdated
+    is_correct: false
+  - text: HTTPS technology does not exist
+    is_correct: false
+  - text: "No"
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:10:27 UTC"
+record: -1
+selected_options:
+  - 0
+custom_name: The payment system
+local_check: true

@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: operating systems
+    is_correct: false
+  - text: chats
+    is_correct: false
+  - text: sites cannot be viewed with programs
+    is_correct: false
+  - text: browsers
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:07:23 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: View sites
+local_check: true

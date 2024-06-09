@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Rectangular to Elliptical Shape Transition
+    is_correct: false
+  - text: RESeT
+    is_correct: false
+  - text: Reliable Software Technologies
+    is_correct: false
+  - text: REpresentational State Transfer
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:21:42 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: REST abbreviation
+local_check: true

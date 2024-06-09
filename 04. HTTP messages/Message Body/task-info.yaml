@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: HTTP method
+    is_correct: false
+  - text: headers
+    is_correct: false
+  - text: data
+    is_correct: true
+  - text: status code
+    is_correct: false
+  - text: requests
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:12:24 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: Message Body
+local_check: true

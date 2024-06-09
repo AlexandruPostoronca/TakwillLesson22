@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01. World Wide Web/Abbreviation" />
+            <option value="$PROJECT_DIR$/01. World Wide Web/Browsers" />
+            <option value="$PROJECT_DIR$/01. World Wide Web/Internet vs Web" />
+            <option value="$PROJECT_DIR$/01. World Wide Web/The relationship" />
+            <option value="$PROJECT_DIR$/01. World Wide Web/Theory" />
+            <option value="$PROJECT_DIR$/01. World Wide Web/View sites" />
+            <option value="$PROJECT_DIR$/01. World Wide Web/Web prefix" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/Emergence of HTTPS" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/Not Secure" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/Social Network" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/The HTTP" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/The advantage of HTTPS" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/The payment system" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/The technology" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/Theory" />
+            <option value="$PROJECT_DIR$/02. HyperText Transfer Protocol/What is P in HTTP" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/A domain" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/Allowed characters" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/Changing the port" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/Definition" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/Determine the port" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/Existing addresses" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/Non-existent addresses" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/The URL pattern" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/Theory" />
+            <option value="$PROJECT_DIR$/03. HTTP URL/URL abbreviation" />
+            <option value="$PROJECT_DIR$/04. HTTP messages/A forum" />
+            <option value="$PROJECT_DIR$/04. HTTP messages/Existing HTTP methods" />
+            <option value="$PROJECT_DIR$/04. HTTP messages/Message Body" />
+            <option value="$PROJECT_DIR$/04. HTTP messages/Server side error" />
+            <option value="$PROJECT_DIR$/04. HTTP messages/Theory" />
+            <option value="$PROJECT_DIR$/04. HTTP messages/Types of messages" />
+            <option value="$PROJECT_DIR$/05. REST/Basic HTTP methods" />
+            <option value="$PROJECT_DIR$/05. REST/Creating a resource" />
+            <option value="$PROJECT_DIR$/05. REST/Delete a poem" />
+            <option value="$PROJECT_DIR$/05. REST/Deletion of resource" />
+            <option value="$PROJECT_DIR$/05. REST/Principles" />
+            <option value="$PROJECT_DIR$/05. REST/REST abbreviation" />
+            <option value="$PROJECT_DIR$/05. REST/RESTful" />
+            <option value="$PROJECT_DIR$/05. REST/Receiving a book" />
+            <option value="$PROJECT_DIR$/05. REST/Theory" />
+            <option value="$PROJECT_DIR$/05. REST/Update an article" />
+            <option value="$PROJECT_DIR$/06. JSON/A pet" />
+            <option value="$PROJECT_DIR$/06. JSON/A valid JSON" />
+            <option value="$PROJECT_DIR$/06. JSON/JSON abbreviation" />
+            <option value="$PROJECT_DIR$/06. JSON/The parentheses" />
+            <option value="$PROJECT_DIR$/06. JSON/The syntax" />
+            <option value="$PROJECT_DIR$/06. JSON/Theory" />
+            <option value="$PROJECT_DIR$/07. Domains/A domain name" />
+            <option value="$PROJECT_DIR$/07. Domains/Domain names and IP" />
+            <option value="$PROJECT_DIR$/07. Domains/The TTA company" />
+            <option value="$PROJECT_DIR$/07. Domains/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: HEAD
+    is_correct: false
+  - text: It happens without using methods
+    is_correct: false
+  - text: POST
+    is_correct: true
+  - text: GET
+    is_correct: false
+  - text: SEND
+    is_correct: false
+  - text: DELETE
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:12:04 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: A forum
+local_check: true

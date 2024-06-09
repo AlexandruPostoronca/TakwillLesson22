@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "The Web connects computers around the world, and the Internet disseminates\
+    \ information."
+    is_correct: false
+  - text: It's the same thing
+    is_correct: false
+  - text: "The Internet connects computers around the world, and the Web disseminates\
+    \ information."
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:07:12 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: Internet vs Web
+local_check: true

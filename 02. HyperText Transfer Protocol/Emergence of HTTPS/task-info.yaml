@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Because HTTP's data transfer was slow
+    is_correct: false
+  - text: Because HTTP's data transfer was limited
+    is_correct: false
+  - text: Because HTTP's data transfer was unencrypted
+    is_correct: true
+  - text: All the above
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:09:23 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: Emergence of HTTPS
+local_check: true

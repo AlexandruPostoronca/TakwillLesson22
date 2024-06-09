@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Server-User
+    is_correct: false
+  - text: User-Server
+    is_correct: false
+  - text: Client-Server
+    is_correct: true
+  - text: Customer-Server
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:10:45 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: The technology
+local_check: true

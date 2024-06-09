@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: special standard that defines what addresses should look like on the Internet
+    is_correct: false
+  - text: technical infrastructure that connects millions of computers around the world
+    is_correct: false
+  - text: collection of information resources scattered around the world and linked
+      together by reference
+    is_correct: false
+  - text: "set of rules by which programs or devices communicate with each other, exchange\
+    \ data, and handle errors"
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:10:53 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: What is "P" in "HTTP"?
+local_check: true

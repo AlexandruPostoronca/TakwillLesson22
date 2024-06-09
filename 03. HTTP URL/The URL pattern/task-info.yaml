@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: https://www.test.com/test123/#test
+    is_correct: true
+  - text: https://www.lorem.com/lorem
+    is_correct: true
+  - text: https://www.lorem.org/ipsum/dolor
+    is_correct: true
+  - text: https://#pineapple/fruits
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Failed
+feedback:
+  message: Incorrect solution
+  time: "Sun, 09 Jun 2024 14:11:04 UTC"
+record: -1
+selected_options:
+  - 0
+custom_name: The URL pattern
+local_check: true

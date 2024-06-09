@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: https://www.ho(pe.com
+    is_correct: false
+  - text: https://www.my_mom-said!.com
+    is_correct: false
+  - text: https://www.itgets9better.org
+    is_correct: true
+  - text: https://www.iwant-tobeabird.com
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:04:40 UTC"
+record: -1
+selected_options:
+  - 2
+  - 3
+custom_name: Existing addresses
+local_check: true

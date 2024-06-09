@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 1xx
+    is_correct: false
+  - text: 2xx
+    is_correct: false
+  - text: 3xx
+    is_correct: false
+  - text: 4xx
+    is_correct: false
+  - text: 5xx
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:13:11 UTC"
+record: -1
+selected_options:
+  - 4
+custom_name: Server side error
+local_check: true

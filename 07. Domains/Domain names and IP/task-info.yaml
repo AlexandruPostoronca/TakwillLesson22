@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: https
+    is_correct: false
+  - text: www
+    is_correct: false
+  - text: 0-level domain
+    is_correct: false
+  - text: DNS
+    is_correct: true
+  - text: .net
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:26:33 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: Domain names and IP
+local_check: true

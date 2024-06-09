@@ -1,0 +1,34 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: https://freenews.org/9999/world
+    is_correct: false
+  - text: http://freenews.org/world/9999
+    is_correct: false
+  - text: https://freenews.org/world:9999
+    is_correct: false
+  - text: https://freenews.org/9999/world
+    is_correct: false
+  - text: http://freenews.org/9999/world
+    is_correct: false
+  - text: https://freenews.org:9999/world
+    is_correct: true
+  - text: http://freenews.org:9999/world
+    is_correct: true
+  - text: https://9999:freenews.org/world
+    is_correct: false
+  - text: https:9999//freenews.org/world
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Failed
+feedback:
+  message: Incorrect solution
+  time: "Sun, 09 Jun 2024 13:49:11 UTC"
+record: -1
+selected_options:
+  - 0
+custom_name: Changing the port
+local_check: true

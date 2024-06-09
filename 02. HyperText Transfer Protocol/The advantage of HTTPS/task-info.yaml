@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: This avoids sending responses from the server
+    is_correct: false
+  - text: HTTPS has algorithms that cut down on unnecessary data
+    is_correct: false
+  - text: It allows you to avoid the requests of the client
+    is_correct: false
+  - text: HTTPS is outdated and no longer needs to be learned and used
+    is_correct: false
+  - text: This protocol is not delayed before sending a response from the server
+    is_correct: false
+  - text: HTTPS provides secure data transfer
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:10:13 UTC"
+record: -1
+selected_options:
+  - 5
+custom_name: The advantage of HTTPS
+local_check: true

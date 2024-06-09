@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: PUT articles/
+    is_correct: false
+  - text: PUT articles/9
+    is_correct: false
+  - text: POST articles
+    is_correct: true
+  - text: POST articles/9
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:17:24 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: Creating a resource
+local_check: true

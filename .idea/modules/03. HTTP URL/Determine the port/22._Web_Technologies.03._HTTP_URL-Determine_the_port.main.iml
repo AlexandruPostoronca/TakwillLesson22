@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":03._HTTP_URL-Determine_the_port:main" external.linked.project.path="$MODULE_DIR$/../../../../03. HTTP URL/Determine the port" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="22._Web_Technologies" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../03. HTTP URL/Determine the port/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../03. HTTP URL/Determine the port/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../03. HTTP URL/Determine the port/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="22._Web_Technologies.util.main" />
+  </component>
+</module>

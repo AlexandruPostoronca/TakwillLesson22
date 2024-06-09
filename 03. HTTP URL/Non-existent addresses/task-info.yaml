@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "https://www.123t,omato.com"
+    is_correct: true
+  - text: https://www.little-puppies1.com
+    is_correct: false
+  - text: https://www.l-i+mon.org
+    is_correct: true
+  - text: https://www.ugle.org
+    is_correct: false
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:06:57 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+custom_name: Non-existent addresses
+local_check: true

@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: The Internet is the Web
+    is_correct: false
+  - text: The Web is a way of obtaining information over the Internet
+    is_correct: true
+  - text: The Internet is part of the Web
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:07:17 UTC"
+record: -1
+selected_options:
+  - 1
+custom_name: The relationship
+local_check: true

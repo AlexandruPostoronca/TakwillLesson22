@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: HyperText Transform Protocol
+    is_correct: false
+  - text: HyperText Transfer Protocol
+    is_correct: true
+  - text: HyperText Transfer Protection
+    is_correct: false
+  - text: HyperTransfer Text Protocol
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:10:19 UTC"
+record: -1
+selected_options:
+  - 1
+custom_name: The HTTP
+local_check: true

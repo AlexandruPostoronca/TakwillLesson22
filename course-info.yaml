@@ -1,0 +1,26 @@
+type: marketplace
+title: 22. Web Technologies
+language: English
+summary: |-
+  This is an introductory course about Web Technologies.
+    - 01. World Wide Web
+    - 02. HyperText Transfer Protocol
+    - 03. HTTP URL
+    - 04. HTTP messages
+    - 05. REST
+    - 06. JSON
+    - 07. Domains
+programming_language: Java
+content:
+  - 01. World Wide Web
+  - 02. HyperText Transfer Protocol
+  - 03. HTTP URL
+  - 04. HTTP messages
+  - 05. REST
+  - 06. JSON
+  - 07. Domains
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_22
+vendor:
+  name: Alexandru Umanet

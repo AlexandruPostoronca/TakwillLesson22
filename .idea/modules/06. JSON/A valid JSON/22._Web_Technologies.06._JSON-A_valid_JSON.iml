@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":06._JSON-A_valid_JSON" external.linked.project.path="$MODULE_DIR$/../../../../06. JSON/A valid JSON" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="22._Web_Technologies" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../06. JSON/A valid JSON">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../06. JSON/A valid JSON/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../06. JSON/A valid JSON/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../06. JSON/A valid JSON/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

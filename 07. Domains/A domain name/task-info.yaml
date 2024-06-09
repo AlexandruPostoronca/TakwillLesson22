@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A network of computers scattered around the world
+    is_correct: false
+  - text: A unique digital identifier for web pages
+    is_correct: false
+  - text: A unique digital identifier for a specific device in a computer network
+    is_correct: false
+  - text: A unique name of a web resource on the Internet and an easier way to record
+      an IP address
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:26:11 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: A domain name
+local_check: true

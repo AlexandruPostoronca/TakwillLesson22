@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: JavaScript Object Nested
+    is_correct: false
+  - text: JavaScript Object Notation
+    is_correct: true
+  - text: Just Scared Of Nails
+    is_correct: false
+  - text: JavaScript Open Notation
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:24:24 UTC"
+record: -1
+selected_options:
+  - 1
+custom_name: JSON abbreviation
+local_check: true

@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "\"first_name\": Sophie, \"last_name\": Goodwin"
+    is_correct: false
+  - text: "{ \"first_name\": Sophie, \"last_name\": Goodwin }"
+    is_correct: false
+  - text: "{ first_name: \"Sophie\", last_name: \"Goodwin\" }"
+    is_correct: false
+  - text: "{ \"first_name\": \"Sophie\", \"last_name\": \"Goodwin\" }"
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:23:48 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: A valid JSON
+local_check: true

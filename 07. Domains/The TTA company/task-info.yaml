@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: tta.com
+    is_correct: true
+  - text: tta.edu
+    is_correct: false
+  - text: tta.net
+    is_correct: true
+  - text: tta.org
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:28:10 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
+custom_name: The TTA company
+local_check: true

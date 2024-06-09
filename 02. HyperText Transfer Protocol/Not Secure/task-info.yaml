@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: On some web page of the site there is material that is not allowed to be viewed
+      in the country
+    is_correct: false
+  - text: This site was found to be selling illegal material
+    is_correct: false
+  - text: This site uses machine learning algorithms
+    is_correct: false
+  - text: This site steals information received by visitors
+    is_correct: false
+  - text: The site was encrypted by scammers
+    is_correct: false
+  - text: Data transfer on this resource occurs without encryption
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:09:39 UTC"
+record: -1
+selected_options:
+  - 5
+custom_name: Not Secure
+local_check: true

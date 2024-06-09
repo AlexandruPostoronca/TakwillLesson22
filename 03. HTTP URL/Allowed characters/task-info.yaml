@@ -1,0 +1,35 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <
+    is_correct: false
+  - text: '>'
+    is_correct: false
+  - text: the Latin alphabet
+    is_correct: true
+  - text: _
+    is_correct: true
+  - text: '-'
+    is_correct: true
+  - text: numbers
+    is_correct: true
+  - text: /
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 13:54:16 UTC"
+record: -1
+selected_options:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+custom_name: Allowed characters
+local_check: true

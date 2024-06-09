@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":01._World_Wide_Web-The_relationship" external.linked.project.path="$MODULE_DIR$/../../../../01. World Wide Web/The relationship" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="22._Web_Technologies" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../01. World Wide Web/The relationship">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../01. World Wide Web/The relationship/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../01. World Wide Web/The relationship/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../01. World Wide Web/The relationship/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

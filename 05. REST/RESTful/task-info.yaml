@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: It is the first REST principle
+    is_correct: false
+  - text: It is one of the REST rules
+    is_correct: false
+  - text: It is a type of app that follows the REST rules
+    is_correct: true
+  - text: It is a type of REST architecture
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:21:52 UTC"
+record: -1
+selected_options:
+  - 2
+custom_name: RESTful
+local_check: true

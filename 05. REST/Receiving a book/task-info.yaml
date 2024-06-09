@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: PUT /books/4
+    is_correct: false
+  - text: POST /books/
+    is_correct: false
+  - text: GIVE /books/4
+    is_correct: false
+  - text: DELETE /books/4
+    is_correct: false
+  - text: GIVE /books
+    is_correct: false
+  - text: GET /books/4
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:21:27 UTC"
+record: -1
+selected_options:
+  - 5
+custom_name: Receiving a book
+local_check: true

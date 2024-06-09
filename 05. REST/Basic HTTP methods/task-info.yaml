@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: DELETE
+    is_correct: true
+  - text: HEAD
+    is_correct: false
+  - text: POST
+    is_correct: true
+  - text: PUT
+    is_correct: true
+  - text: GET
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:16:47 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
+  - 4
+custom_name: Basic HTTP methods
+local_check: true

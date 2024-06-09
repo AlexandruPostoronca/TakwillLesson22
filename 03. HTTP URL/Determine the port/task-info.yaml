@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 80
+    is_correct: false
+  - text: 8080
+    is_correct: false
+  - text: 444
+    is_correct: false
+  - text: 434
+    is_correct: false
+  - text: 443
+    is_correct: true
+  - text: 344
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 13:55:12 UTC"
+record: -1
+selected_options:
+  - 4
+custom_name: Determine the port
+local_check: true

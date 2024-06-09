@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Web
+    is_correct: true
+  - text: WB
+    is_correct: false
+  - text: W3
+    is_correct: true
+  - text: WWW
+    is_correct: true
+quiz_header: 'Select all the correct answers:'
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 09 Jun 2024 14:08:49 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
+custom_name: Abbreviation
+local_check: true
